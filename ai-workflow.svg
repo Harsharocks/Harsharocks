@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 235" role="img" aria-label="AI feature engineering workflow: API, context, model tools, validation, human review">
+<rect width="1120" height="235" rx="18" fill="#0b1730"/>
+<text x="36" y="43" font-family="Arial" font-size="20" font-weight="bold" fill="#e2e8f0">HOW I THINK ABOUT AI-ENABLED SOFTWARE</text><text x="36" y="66" font-family="Arial" font-size="13" fill="#94a3b8">An engineering pattern I explore — not a claim of a deployed end-to-end product</text>
+<g font-family="Arial" font-size="16" text-anchor="middle" fill="#e2e8f0"><rect x="32" y="98" width="175" height="84" rx="12" fill="#122c4b" stroke="#2563eb"/><text x="119" y="133">APPLICATION</text><text x="119" y="155" font-size="12" fill="#93c5fd">APIs &amp; workflows</text>
+<rect x="253" y="98" width="175" height="84" rx="12" fill="#122c4b" stroke="#0891b2"/><text x="340" y="133">CONTEXT</text><text x="340" y="155" font-size="12" fill="#67e8f9">Retrieval &amp; prompts</text>
+<rect x="474" y="98" width="175" height="84" rx="12" fill="#24224e" stroke="#8b5cf6"/><text x="561" y="133">MODEL + TOOLS</text><text x="561" y="155" font-size="12" fill="#c4b5fd">Structured outputs</text>
+<rect x="695" y="98" width="175" height="84" rx="12" fill="#122c4b" stroke="#10b981"/><text x="782" y="133">EVALUATION</text><text x="782" y="155" font-size="12" fill="#6ee7b7">Tests &amp; checks</text>
+<rect x="916" y="98" width="172" height="84" rx="12" fill="#122c4b" stroke="#f59e0b"/><text x="1002" y="133">REVIEW</text><text x="1002" y="155" font-size="12" fill="#fcd34d">Human oversight</text></g>
+<g stroke="#64748b" stroke-width="3" fill="none"><path d="M207 140h38m-8 -7 8 7 -8 7M428 140h38m-8 -7 8 7 -8 7M649 140h38m-8 -7 8 7 -8 7M870 140h38m-8 -7 8 7 -8 7"/></g>
+<text x="36" y="213" font-family="Arial" font-size="13" fill="#93a9c8">Design principle: observability, validation, traceability and safe failure modes belong in the architecture.</text>
+</svg>
