@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Harshavardhan Marineni — Software Engineer, Backend Systems and Applied AI" width="100%" />
+<img src="./profile-banner.svg" alt="Harshavardhan Marineni — Software Engineer, Backend Systems and Applied AI" width="100%" />
 
 <br/>
 
@@ -34,7 +34,7 @@ My core background is in **backend development, distributed systems, cloud engin
 ## Applied AI meets software engineering
 
 <div align="center">
-<img src="./assets/ai-workflow.svg" alt="An illustrative AI engineering workflow from APIs and retrieval to tool calling, evaluation and human review" width="100%" />
+<img src="./ai-workflow.svg" alt="An illustrative AI engineering workflow from APIs and retrieval to tool calling, evaluation and human review" width="100%" />
 </div>
 
 I’m interested in **production-minded AI design**, not just impressive demos. That includes designing deterministic interfaces around probabilistic outputs, validating structured responses, testing failure cases, and treating security and traceability as first-class concerns.
