@@ -7,19 +7,19 @@
 [![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-0891B2?style=for-the-badge&logo=netlify&logoColor=white)](https://harshavardhanmarineni-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshavardhanchoudary/)
 
-**Backend Engineering** &nbsp;·&nbsp; **Cloud Platforms** &nbsp;·&nbsp; **AI-Enabled Applications** &nbsp;·&nbsp; **Performance & Reliability**
+**⚙️ Backend Engineering** &nbsp;·&nbsp; **☁️ Cloud Platforms** &nbsp;·&nbsp; **🤖 AI-Enabled Applications** &nbsp;·&nbsp; **🌱 Open Source**
 
 </div>
 
 ## About me
 
-I’m **Harshavardhan**, a software engineer with **6+ years of experience** across healthcare, financial services, academic research, and automotive systems. I enjoy making complex systems simpler: turning requirements into resilient APIs, tracing hard-to-find bottlenecks, and improving the software people depend on.
+I’m **Harshavardhan**, a software engineer and **open-source contributor** with **6+ years of experience** across healthcare, financial services, academic research, and automotive systems. I enjoy making complex systems simpler: turning requirements into resilient APIs, tracing hard-to-find bottlenecks, and improving the software people depend on.
 
 My core background is in **backend development, distributed systems, cloud engineering, and performance analysis**. Increasingly, I’m exploring how **LLMs, retrieval, tool-based automation, and structured evaluations** can augment those systems responsibly.
 
 > **What drives my work:** Build useful software. Make it observable. Measure the outcome. Keep the human in control when AI is involved.
 
-## Technology landscape
+## 🧰 Technology landscape
 
 <div align="center">
 
@@ -31,7 +31,7 @@ My core background is in **backend development, distributed systems, cloud engin
 
 </div>
 
-## Applied AI meets software engineering
+## 🤖 Applied AI meets software engineering
 
 <div align="center">
 <img src="./ai-workflow.svg" alt="An illustrative AI engineering workflow from APIs and retrieval to tool calling, evaluation and human review" width="100%" />
@@ -43,6 +43,24 @@ I’m interested in **production-minded AI design**, not just impressive demos. 
 
 <sub>These AI areas include engineering practices from my background and subjects I am actively exploring; they do not imply that every pattern has been deployed by me in production.</sub>
 
+## 🌍 Open-source contributions
+
+<div align="center">
+
+[![Open Source Contributor](https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+&nbsp;
+![Community Mindset](https://img.shields.io/badge/COMMUNITY-FIRST-8B5CF6?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+**🤝 I contribute to open source because great software grows through collaboration.** I value readable code, thoughtful reviews, clear documentation, and improvements that make developer tools easier to use and maintain.
+
+- 🛠️ **Code & quality:** Fixes, testing, refactoring, and reliability-minded changes.
+- 📚 **Documentation & knowledge sharing:** Clearer setup instructions, examples, and practical explanations.
+- 🔍 **Learning in public:** Exploring backend, cloud, and AI tooling while sharing what I learn.
+
+> **Contribution spotlight:** Add links to your actual merged pull requests or contributor profiles here so visitors can see the impact firsthand.
+
 ## Experience snapshot
 
 | Journey | Engineering focus |
@@ -52,7 +70,7 @@ I’m interested in **production-minded AI design**, not just impressive demos. 
 | **Texas Tech University** · Aug 2022–May 2023 | CPU/GPU experiments, C++ and Python benchmarking, performance research |
 | **Bosch** · Dec 2019–Jul 2022 | Systems software, cross-layer debugging and engineering fundamentals |
 
-## Featured engineering directions
+## 🚀 Featured engineering directions
 
 <table>
 <tr>
