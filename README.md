@@ -1,97 +1,86 @@
 <div align="center">
 
-# Hey, I'm Harshavardhan Marineni 👋
+<img src="./assets/profile-banner.svg" alt="Harshavardhan Marineni — Software Engineer, Backend Systems and Applied AI" width="100%" />
 
-### Software Engineer • Backend & Cloud • AI-Enabled Applications
+<br/>
 
-**I build dependable software — and explore how AI can make it smarter, faster, and easier to use.**
+[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-0891B2?style=for-the-badge&logo=netlify&logoColor=white)](https://harshavardhanmarineni-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshavardhanchoudary/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-14B8A6?style=for-the-badge&logo=netlify&logoColor=white)](https://harshavardhanmarineni-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshavardhanchoudary/)
-
-![Focus](https://img.shields.io/badge/Focus-Backend_%2B_AI-7C3AED?style=flat-square)
-![Cloud](https://img.shields.io/badge/Cloud-Microsoft_Azure-0078D4?style=flat-square)
-![Engineering](https://img.shields.io/badge/Mindset-Build_%E2%86%92_Measure_%E2%86%92_Improve-334155?style=flat-square)
+**Backend Engineering** &nbsp;·&nbsp; **Cloud Platforms** &nbsp;·&nbsp; **AI-Enabled Applications** &nbsp;·&nbsp; **Performance & Reliability**
 
 </div>
 
----
+## About me
 
-## ✨ A Little About Me
+I’m **Harshavardhan**, a software engineer with **6+ years of experience** across healthcare, financial services, academic research, and automotive systems. I enjoy making complex systems simpler: turning requirements into resilient APIs, tracing hard-to-find bottlenecks, and improving the software people depend on.
 
-I'm a software engineer with **6+ years of experience** spanning healthcare, financial services, academic research, and automotive systems. I enjoy the part of engineering where complex problems become **clean APIs, reliable services, and measurable improvements**.
+My core background is in **backend development, distributed systems, cloud engineering, and performance analysis**. Increasingly, I’m exploring how **LLMs, retrieval, tool-based automation, and structured evaluations** can augment those systems responsibly.
 
-My foundation is in **backend development, distributed systems, performance engineering, and cloud technologies**. I'm also especially interested in the intersection of **software engineering and AI**: using language models, automation, and thoughtfully designed evaluation workflows to create practical tools people can trust.
+> **What drives my work:** Build useful software. Make it observable. Measure the outcome. Keep the human in control when AI is involved.
 
-> **My approach:** Build for real users. Measure what matters. Keep a human in the loop when AI is involved.
-
-- 🏥 **Now:** Software engineering at **TeamCare** (May 2024–Present), focused on healthcare-related backend workflows.
-- 💳 **Before:** **JPMorgan Chase** — backend and platform engineering.
-- 🔬 **Research:** **Texas Tech University** — performance experiments and CPU/GPU systems.
-- 🚗 **Earlier:** **Bosch** — software and systems engineering.
-
-## 🧠 AI + Software Engineering
-
-I bring a software-engineering mindset to AI: **reliability, clear interfaces, traceability, testing, and thoughtful guardrails** matter just as much as a clever prompt.
-
-| Area | What I focus on |
-| :--- | :--- |
-| 🤖 **LLM application patterns** | Prompt design, context engineering, structured responses, and integrating AI features with APIs |
-| 🔗 **Tool-using workflows** | Tool orchestration and automation patterns that connect models with real software workflows |
-| 📚 **Grounded AI** | Retrieval-augmented generation (RAG) concepts, source attribution, and context quality |
-| 🧪 **Evaluation & safety** | Evaluation sets, output validation, human-in-the-loop review, and responsible AI checks |
-| 🐍 **Python for AI workflows** | Scripting, data processing, experiments, and repeatable evaluation workflows |
-
-<sub>AI topics above reflect a combination of resume-listed engineering practices and areas I'm exploring; they are not claims that I deployed every pattern in a production system.</sub>
-
-## 🛠️ My Engineering Toolkit
-
-**Languages:** C#, Java, Python, C/C++, SQL, Bash  
-**Backend:** .NET, REST APIs, microservices, distributed systems, concurrency  
-**Cloud & Delivery:** Microsoft Azure, Docker, Kubernetes, CI/CD, Git  
-**Performance & Reliability:** Linux, benchmarking, profiling, observability, automated testing  
-**AI & Automation:** Prompt/context engineering, tool orchestration, evaluation workflows, Python automation, human review
-
-## 🚀 What I Like Building
-
-<table>
-<tr><td>⚙️ <b>Backend & APIs</b></td><td>Well-structured services with reliable integrations, predictable behavior, and useful diagnostics.</td></tr>
-<tr><td>☁️ <b>Cloud-native systems</b></td><td>Applications designed with deployment, observability, and operational resilience in mind.</td></tr>
-<tr><td>🧠 <b>AI-assisted workflows</b></td><td>Practical AI features that combine automation with validation and human oversight.</td></tr>
-<tr><td>📈 <b>Performance engineering</b></td><td>Profiling, benchmarking, and tuning based on evidence rather than guesswork.</td></tr>
-</table>
-
-## 📌 Projects Worth Exploring
-
-I'm organizing a collection of public projects that connect **backend engineering, cloud, and applied AI**. These are **project ideas / showcase slots**, not links to completed repositories yet.
-
-| Showcase idea | What it would demonstrate |
-| :--- | :--- |
-| 🧠 **AI Knowledge Assistant** | A .NET or Python API, retrieval-based answers, source citations, and evaluation checks |
-| 🛡️ **AI-Assisted Document Workflow** | Extraction, structured validation, human review, and traceable decisions |
-| ☁️ **Cloud-Native Backend API** | Service design, Azure deployment, CI/CD, testing, and observability |
-| ⚡ **Performance Benchmark Toolkit** | Python/C++ profiling experiments, automated reports, and reproducible comparisons |
-
-<!-- When you publish repositories, replace the table above with real GitHub links and pin the strongest projects to your profile. -->
-
-## 🎓 Education & Certifications
-
-**Master of Science, Computer Science and Engineering** — Texas Tech University
-
-- Microsoft Certified: Azure Developer Associate (AZ-204)
-- Azure Data Engineer Associate (DP-203)
-- Azure Fundamentals (AZ-900)
-
-## 🤝 Let's Build Something Useful
-
-I'm interested in **backend, cloud, and AI-enabled software engineering** opportunities where solid engineering fundamentals meet meaningful user problems.
-
-📬 [Connect on LinkedIn](https://www.linkedin.com/in/harshavardhanchoudary/) · 🌐 [Explore my portfolio](https://harshavardhanmarineni-portfolio.netlify.app/)
-
----
+## Technology landscape
 
 <div align="center">
 
-*Curious about AI. Serious about engineering. Always learning.* 🚀
+| Backend & languages | Cloud & engineering | AI & intelligent workflows |
+| :---: | :---: | :---: |
+| ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | `LLM application patterns` `Prompt design` |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | `Context engineering` `Tool orchestration` |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | `CI/CD` `Linux` `Observability` | `RAG concepts` `Evaluations` `Human review` |
+
+</div>
+
+## Applied AI meets software engineering
+
+<div align="center">
+<img src="./assets/ai-workflow.svg" alt="An illustrative AI engineering workflow from APIs and retrieval to tool calling, evaluation and human review" width="100%" />
+</div>
+
+I’m interested in **production-minded AI design**, not just impressive demos. That includes designing deterministic interfaces around probabilistic outputs, validating structured responses, testing failure cases, and treating security and traceability as first-class concerns.
+
+**Areas I work with or explore:** Prompt and context engineering · LLM API integration patterns · Tool-using workflows · Retrieval-augmented generation (RAG) concepts · Evaluation sets · Python automation · Human-in-the-loop validation.
+
+<sub>These AI areas include engineering practices from my background and subjects I am actively exploring; they do not imply that every pattern has been deployed by me in production.</sub>
+
+## Experience snapshot
+
+| Journey | Engineering focus |
+| :--- | :--- |
+| **TeamCare** · May 2024–Present | Healthcare workflows, backend reliability, service performance and operational engineering |
+| **JPMorgan Chase** · May 2023–May 2024 | Backend platforms, scalable service patterns, CI/CD and observability |
+| **Texas Tech University** · Aug 2022–May 2023 | CPU/GPU experiments, C++ and Python benchmarking, performance research |
+| **Bosch** · Dec 2019–Jul 2022 | Systems software, cross-layer debugging and engineering fundamentals |
+
+## Featured engineering directions
+
+<table>
+<tr>
+<td width="50%" valign="top"><h3>01 · AI Knowledge Assistant</h3><b>Concept / portfolio idea</b><p>Retrieval-based answers, cited sources, API boundaries, and repeatable evaluation checks.</p><code>Python</code> <code>.NET</code> <code>RAG</code></td>
+<td width="50%" valign="top"><h3>02 · AI Document Workflow</h3><b>Concept / portfolio idea</b><p>Structured extraction, output validation, traceable decisions, and human review.</p><code>LLM APIs</code> <code>Validation</code> <code>Azure</code></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>03 · Cloud-Native API</h3><b>Concept / portfolio idea</b><p>Well-tested backend services, deployment automation, monitoring, and failure handling.</p><code>C#</code> <code>ASP.NET Core</code> <code>CI/CD</code></td>
+<td width="50%" valign="top"><h3>04 · Performance Benchmarking</h3><b>Concept / portfolio idea</b><p>Reproducible experiments, profiling, regression detection, and evidence-based optimization.</p><code>Python</code> <code>C++</code> <code>Linux</code></td>
+</tr>
+</table>
+
+> **Repository spotlight:** These are showcase concepts, not links to completed projects. As I publish the corresponding code, I’ll replace the concepts with live repositories, architecture diagrams, and short demos.
+
+## Certifications & education
+
+**Master of Science, Computer Science and Engineering** — Texas Tech University
+
+![AZ-204](https://img.shields.io/badge/Azure_Developer_Associate-AZ--204-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)  
+![DP-203](https://img.shields.io/badge/Azure_Data_Engineer_Associate-DP--203-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)  
+![AZ-900](https://img.shields.io/badge/Azure_Fundamentals-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+## Let's connect
+
+<div align="center">
+
+**Building reliable systems today — exploring intelligent systems for tomorrow.**
+
+[Portfolio](https://harshavardhanmarineni-portfolio.netlify.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/harshavardhanchoudary/)
 
 </div>
